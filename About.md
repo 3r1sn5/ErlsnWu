@@ -1,7 +1,6 @@
 -I’m Errolson Wu a.k.a. ErlsnWu or E.W., a computer science & engineering enthusiast.
 
--Heading to Machine Learning Scientist right now. 
-
+-Heading to Computer Scientist right now, interested in Machine Learning, Theoretical Computer Science, and Theory of computation.
 -To reach me @Gmail: a0987567908@gmail.com or errolsongodyr@gmail.com 
              @Yahoo: a0976238036@yahoo.com
 
